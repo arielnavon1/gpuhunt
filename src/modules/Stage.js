@@ -147,7 +147,7 @@ class Stage extends Container {
     var containerBg = new Container();
     // var backgroundSpriteBlue = new extras.AnimatedSprite([loader.resources[this.spritesheet].textures['scene/backgrounds/bluebg.jpg.png']])
     // backgroundSpriteBlue.position.set(0,0);
-    this.backgroundSpritePink = new extras.AnimatedSprite([loader.resources[this.spritesheet].textures['scene/backgrounds/redbg.jpg']])
+    this.backgroundSpritePink = new extras.AnimatedSprite([loader.resources[this.spritesheet].textures['scene/backgrounds/redbg.png']])
     this.backgroundSpritePink.position.set(0,0);
     this.backgroundSpritePink.visible= false;
     // containerBg.addChild(backgroundSpriteBlue);

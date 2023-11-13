@@ -400,7 +400,7 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":600},
 	"sourceSize": {"w":800,"h":600}
 },
-"scene/backgrounds/bluebg.jpg.png":
+"scene/backgrounds/bluebg.png":
 {
 	"frame": {"x":1,"y":1,"w":800,"h":600},
 	"rotated": false,
@@ -408,7 +408,7 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":600},
 	"sourceSize": {"w":800,"h":600}
 },
-"scene/backgrounds/redbg.jpg":
+"scene/backgrounds/redbg.png":
 {
 	"frame": {"x":1,"y":603,"w":800,"h":600},
 	"rotated": false,
@@ -431,6 +431,6 @@
 	"format": "RGBA8888",
 	"size": {"w":802,"h":1629},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:91373ada8339360b7c187480a15baf40:949b4057b3396cba26adc0d9b8100a1b:1eabdf11f75e3a4fe3147baf7b5be24b$"
+	"smartupdate": "$TexturePacker:SmartUpdate:094177ea9adcf9bea962aa7b079bd35c:3219b324714451904e07fe548d1b89ae:1eabdf11f75e3a4fe3147baf7b5be24b$"
 }
 }
