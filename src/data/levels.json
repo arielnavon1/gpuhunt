@@ -4,11 +4,11 @@
       "id": 1,
       "title": " Hit 10 GPUs to win a YETI Tumbler",
       "waves": 1,
-      "ducks": 14,
+      "ducks": 15,
       "pointsPerDuck": 1,
       "speed": 7,
       "bullets": 14,
-      "radius": 35,
+      "radius": 37,
       "time": 20
     }
   ]
