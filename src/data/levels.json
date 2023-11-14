@@ -7,8 +7,8 @@
       "ducks": 15,
       "pointsPerDuck": 1,
       "speed": 7,
-      "bullets": 14,
-      "radius": 37,
+      "bullets": 20,
+      "radius": 45,
       "time": 20
     }
   ]
